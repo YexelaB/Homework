@@ -1,0 +1,14 @@
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\bin\Debug\net8.0\3.exe
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\bin\Debug\net8.0\3.deps.json
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\bin\Debug\net8.0\3.runtimeconfig.json
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\bin\Debug\net8.0\3.dll
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\bin\Debug\net8.0\3.pdb
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\3.AssemblyInfoInputs.cache
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\3.AssemblyInfo.cs
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\3.csproj.CoreCompileInputs.cache
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\3.dll
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\refint\3.dll
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\3.pdb
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\3.genruntimeconfig.cache
+C:\Users\amnota\Desktop\LESSONS\01.csharp\Practice_07\Homework\3\obj\Debug\net8.0\ref\3.dll
